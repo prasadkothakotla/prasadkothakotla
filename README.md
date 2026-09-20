@@ -245,13 +245,13 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=prasadkothakotla&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkothakotla&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -261,7 +261,7 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=prasadkothakotla&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -271,7 +271,7 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadkothakotla&theme=tokyo-night&hide_border=true" />
 
 </p>
 
@@ -317,7 +317,7 @@ I'm interested in collaborating on:
 
 <p align="center">
 
-<a href="www.linkedin.com/in/kothakotla-devi-prasad-0411b5368">
+<a href="https://www.linkedin.com/in/kothakotla-devi-prasad-0411b5368">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
